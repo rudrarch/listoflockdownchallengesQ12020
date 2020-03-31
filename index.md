@@ -5,9 +5,10 @@
 
 ## Hi
 
-# An FYI
-# Don’t be calling them challenges y'knw, cause they are not!
+# They ain't challenges!
+# Cause they are not!
 ## Period
 ### .
+### Deal with it!
 
 <br />
