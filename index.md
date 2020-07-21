@@ -2,7 +2,8 @@
 <br />
 <br />
 <br />
-
+<html>
+  <body>
 ## Hi
 POST /knowledgebases/d3f6bc81-6fe2-4092-8fb9-9e7b58485736/generateAnswer
 Host: https://sapiqna.azurewebsites.net/qnamaker
@@ -15,5 +16,7 @@ Content-Type: application/json
 ## Period
 ### .
 ### Deal with it!
+</body>
+</html>
 
 <br />
